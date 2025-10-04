@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Guess the Number</title>
+  <link rel="stylesheet" href="guess.css">
+</head>
+<body>
+  <h2>🔢 Guess the Number (1-100)</h2>
+  <p>Try to guess the hidden number!</p>
+
+  <input type="number" id="guess" placeholder="Enter your guess" min="1" max="100">
+  <button onclick="checkGuess()">Submit</button>
+  <button onclick="resetGame()">Restart</button>
+
+  <div class="feedback">
+    <p id="feedback"></p>
+    <p id="attempts"></p>
+  </div>
+
+  <script src="guess.js"></script>
+</body>
+</html>
