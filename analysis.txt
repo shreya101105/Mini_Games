@@ -1,0 +1,36 @@
+Mini Games Project - Analysis
+
+1. Project Name:
+   Mini Games Collection
+
+2. Project Overview:
+   This project is a collection of small mini games that can be played in a web browser.
+   Games included:
+   - Rock Paper Scissors
+   - Guess the Number
+   - Tic Tac Toe
+
+3. Objectives:
+   - Provide fun and interactive games for users.
+   - Learn and demonstrate HTML, CSS, and JavaScript skills.
+   - Collaborate with a friend using Git and GitHub.
+inst the computer.
+   - Play Guess the Number game with hints (too high/too low).
+   - Play Tic Tac Toe (two players on the same device).
+   - Display game results clearly on the page.
+
+5. Technologies:
+   - HTML for structure
+   - CSS for styling
+   - JavaScript for game logic and interactivity
+   - Git and GitHub for version control and collaboration
+
+6. Collaboration Plan:
+   - Each developer works on separate game features in different Git branches.
+   - Use commits and pull requests
+4. Features:
+   - Play Rock Paper Scissors aga(PRs) to review and merge changes.
+   - Keep commits small and meaningful.
+
+Prepared By: Shreya Chandankhede  
+Date: 4/10/2025
